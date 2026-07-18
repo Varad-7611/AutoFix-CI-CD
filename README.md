@@ -43,3 +43,7 @@ The GitHub Actions workflow (`.github/workflows/main.yml`) executes on every pus
 2. **Notify n8n Job** (runs only on failure):
    - Triggers n8n webhook with failure details
    - Sends run ID, repo, branch, commit, actor, and error message
+
+  ---
+
+  <img width="1754" height="698" alt="image" src="https://github.com/user-attachments/assets/a902b287-48f2-4c4a-b3e9-d6ba681c94e0" />
